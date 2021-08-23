@@ -1,12 +1,12 @@
-# Peer-Code
+# Coding-Kid
 An Online Coding Question Solving Platform with P2P Coding
 
-* PeerCode is a project implemented for students. PeerCode will help
+* Coding-Kid is a project implemented for students. Coding-kid will help
 students to solve programming questions.
-* The interface of the PeerCode is Web pages that can be accessed with any
+* The interface of the Coding-Kid is Web pages that can be accessed with any
 browser. The system is implemented in React, Firebase, MongoDB and
 CSS.Students can do coding practice and participate in contests.
-* PeerCode is an easy-to-use application. Anyone who knows how to code
+* Coding-Kid is an easy-to-use application. Anyone who knows how to code
 or is new to coding can carry out here. It is an easy to use and user-friendly
 application with a good GUI(Graphical User Interface) design.
 
